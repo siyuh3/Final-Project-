@@ -1,0 +1,13 @@
+.e-home {
+    border-bottom: solid #282c34 1px;
+}
+
+.horiList {
+    display:inline
+}
+
+ .product-display-img {
+     background-size: cover;
+     width: 100%;
+     height: 300px;
+ }
